@@ -1,4 +1,4 @@
-# A simple Aviation design with usable Widgets
+# A simple Aviation design with Reusable Widgets
 
 A new Flutter project.
 
