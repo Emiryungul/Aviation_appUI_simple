@@ -100,7 +100,7 @@ class Home extends StatelessWidget {
               scrollDirection: Axis.horizontal,
               padding: EdgeInsets.only(left: 20,right: 20),
               child: Row(
-                children : hotelList.map((singleHotel) => HotelView(hotel: singleHotel)).toList(),
+                children : hotelList.map((value) => HotelView(hotel: value)).toList(),
               ),
           ),
         ],
