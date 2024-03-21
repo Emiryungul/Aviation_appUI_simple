@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-The main goal of this app that ı made is to start simple with simple but nice looking widgets it is my firts time pushing an app so it is not very clean coded but you will find good use from these codes 
+The main goal of this app that i made is to start simple with simple but nice looking widgets it is my firts time uploading an app so it is not very clean coded but you will find good use from these codes 
 
 # Pages
 
