@@ -1,11 +1,14 @@
-# A simple Aviation design with Reusable Widgets
-
-A new Flutter project.
-
-### Flutter Aviation Themed Ui Project
-
+# Flutter Aviation Themed Ui Project
 
 The main goal of this app that i made is to start simple with simple but nice looking widgets it is my firts time uploading an app so it is not very clean coded but you will find good use from these codes 
+
+## Projects Features 
+- Project folder sctucture is easy and clean to use for developers
+- Project contains up to 15 widgets that are Reusable and responsive and also really nice looking
+
+## Some of the codes and usages and images from the application 
+
+
 
 # Pages
 
